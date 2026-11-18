@@ -51,3 +51,7 @@ Click **Allow**. The TV fetches the video from your computer. The control page i
 ## Notes
 
 Only use this with content you have the right to access.
+
+## License
+
+MIT — see [LICENSE](LICENSE). You're free to use, copy, modify and share it.
